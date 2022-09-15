@@ -1,0 +1,26 @@
+[
+        {
+            "id" : 1,
+            "challenge_name": "줍깅",
+            "challenge_description": "길가에 쓰레기를 주워서 환경을 지키는 챌린지입니다.",
+            "src" : "/images/challenges/challenge1.png"
+        },
+        {
+            "id" : 2,
+            "challenge_name": "대중교통",
+            "challenge_description": "대중교통을 이용해 지구를 지키는 챌린지입니다.",
+            "src": "/images/challenges/challenge7.png"
+        },
+        {
+            "id" : 3,
+            "challenge_name": "플라스틱 프리",
+            "challenge_description": "재활용 가능한 용기를 사용해 환경을 지키는 챌린지입니다.",
+            "src" : "/images/challenges/challenge4.png"
+        },
+        {
+          "id" : 4,
+          "challenge_name": "용기내",
+          "challenge_description": "플라스틱 포장용기 대신 다회용기에 포정해서 플라스틱 사용을 줄이는 챌린지입니다.",
+          "src" : "/images/challenges/challenge6.png"
+        }
+]

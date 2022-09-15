@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "src" : "/images/challenges/challenge1.png"
+    },
+    {
+        "id" : 2,
+        "src" : "/images/challenges/challenge2.png"
+    },
+    {
+        "id" : 3,
+        "src" : "/images/challenges/challenge3.png"
+    },
+    {
+        "id" : 4,
+        "src" : "/images/challenges/challenge4.png"
+    },
+    {
+        "id" : 5,
+        "src" : "/images/challenges/challenge5.png"
+    }
+]

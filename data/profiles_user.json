@@ -1,0 +1,26 @@
+[
+  {
+    "password": "pbkdf2_sha256$390000$plf8b37ng3cKgHON0EX7MV$Py2432RRCb5VeFDOyvMqGaNuq9wuYE2oZzfwx0nxnx4=",
+    "last_login": "2022-09-13 11:17:07.495345",
+    "id": 1,
+    "email": "tiswogur6767@gmail.com",
+    "nickname": "shinba",
+    "username": "shinn",
+    "point": 0,
+    "profile_image": "",
+    "is_active": 1,
+    "is_admin": 0
+  },
+  {
+    "password": "pbkdf2_sha256$390000$AbIHbR0T29zNIzQvYLJ1uo$Q3DWEdaa4lKT7hZbx7NbvYS0zyscN1LnwpVgx7nSITE=",
+    "last_login": null,
+    "id": 2,
+    "email": "hoho99@gmail.com",
+    "nickname": "hozzae",
+    "username": "huhchae",
+    "point": 0,
+    "profile_image": "",
+    "is_active": 1,
+    "is_admin": 0
+  }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "userName": "jinsik_hong",
+        "content": "Day1. 운동장에 있는 쓰레기 수거 완료",
+        "category": "줍깅 챌린지",
+        "likes": 10,
+        "is_challenge": true,
+        "images": [
+            "https://z979.s3.ap-northeast-2.amazonaws.com/feeds/Trash1.jpeg"
+        ],
+        "userImage": "/images/user3.JPG"
+    },
+    {
+        "userName": "0h0",
+        "content": "쓰레기 줍기 1일차. 꽁초를 주웠다",
+        "category": "줍깅 챌린지",
+        "likes": 2,
+        "is_challenge": true,
+        "images": [
+            "https://z979.s3.ap-northeast-2.amazonaws.com/feeds/Trash3.jpeg"
+        ],
+        "userImage": ""
+    },
+    {
+        "userName": "0h0",
+        "content": "쓰레기 줍기 2일차. 뿌듯 ㅎㅎ",
+        "category": "줍깅 챌린지",
+        "likes": 7,
+        "is_challenge": true,
+        "images": [
+            "https://z979.s3.ap-northeast-2.amazonaws.com/feeds/Trash4.jpeg"
+        ],
+        "userImage": ""
+    },
+    {
+        "userName": "hozzae",
+        "content": "자전거 타고 출근 1일차",
+        "category": "대중교통 챌린지",
+        "likes": 12,
+        "is_challenge": true,
+        "images": [
+            "https://z979.s3.ap-northeast-2.amazonaws.com/feeds/jajeon1.jpeg"
+        ],
+        "userImage": "/images/user2.jpeg"
+    },
+    {
+        "userName": "hozzae",
+        "content": "자전거 타고 출근 2일차! 오늘도 가는 길에 빵 사가야지",
+        "category": "대중교통 챌린지",
+        "likes": 9,
+        "is_challenge": true,
+        "images": [
+            "https://z979.s3.ap-northeast-2.amazonaws.com/feeds/jajeon2.jpeg"
+        ],
+        "userImage": "/images/user2.jpeg"
+    },
+    {
+        "userName": "0h0",
+        "content": "출근하면서 운동하기 1일차",
+        "category": "대중교통 챌린지",
+        "likes": 11,
+        "is_challenge": true,
+        "images": [
+            "https://z979.s3.ap-northeast-2.amazonaws.com/feeds/jajeon3.jpeg"
+        ],
+        "userImage": ""
+    },
+    {
+        "userName": "shin_ba",
+        "content": "새 자전거 마련했습니다. 오늘 부터 시작!",
+        "category": "대중교통 챌린지",
+        "likes": 3,
+        "is_challenge": true,
+        "images": [
+            "https://z979.s3.ap-northeast-2.amazonaws.com/feeds/jajeon4.jpeg"
+        ],
+        "userImage": ""
+    },
+    {
+        "userName": "shin_ba",
+        "content": "만보 걷기 캠페인 저랑 같이 걸으실 분 !",
+        "category": "캠페인",
+        "likes": 6,
+        "is_challenge": false,
+        "images": [
+            "https://z979.s3.ap-northeast-2.amazonaws.com/feeds/dduiging1.jpeg"
+        ],
+        "userImage": ""
+    },
+    {
+        "userName": "sowish23",
+        "content": "만보 걷기 캠페인 참여합니다! 뿌듯하네용 ㅎㅎ",
+        "category": "캠페인",
+        "likes": 7,
+        "is_challenge": false,
+        "images": [
+            "https://z979.s3.ap-northeast-2.amazonaws.com/feeds/dduiging2.jpeg"
+        ],
+        "userImage": "/images/user1.jpeg"
+    }
+]
